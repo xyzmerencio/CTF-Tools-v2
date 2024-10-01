@@ -1,0 +1,1 @@
+gcc dirbrute.c -o dirbrute -lcurl 
